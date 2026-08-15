@@ -1,72 +1,52 @@
 # Hi, I'm Ali Abbasi 👋
-
 Frontend Developer passionate about building beautiful and interactive web experiences.
-
+ 
 ## 🚀 About Me
-
-I'm a Frontend Developer from Iran with expertise in modern web technologies. I focus on creating responsive, user-friendly interfaces and clean, maintainable code. Always learning and improving my skills.
-
-- 🔧 **Languages & Tools:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass, Bootstrap, HTML/CSS
-- 📚 **Currently Learning:** Advanced React patterns, Web Performance optimization, Next.js advanced features
-- 💡 **Interests:** UI/UX Design, Interactive Components, Code Quality, API Integration
+I'm a Frontend Developer from Iran focused on React and Next.js. I have two years of experience designing, building, and shipping real products, writing clean code, and building user-friendly interfaces. Always learning and looking for a spot on a professional team where I can grow and help ship real products.
+ 
+- 🔧 **Languages & Tools:** JavaScript (ES6+), TypeScript, HTML, CSS, React.js, Next.js (App Router)
+- 🎨 **Styling:** Tailwind CSS, Bootstrap, Sass, shadcn/ui
+- 🗂️ **State Management:** Zustand, Redux Toolkit, Context API
+- 🧰 **Tools & Libraries:** Git/GitHub, REST API, Axios, Vite, Zod, React Hook Form, Recharts
+- 🌐 **Languages spoken:** English, Turkish
 - 📧 **Contact:** aliabbasi.udev@gmail.com
-
 ---
-
+ 
+## 💼 Work Experience
+ 
+**Front-end Developer — Refah Omd**
+*October 2024 – May 2026*
+- Developed, maintained, and optimized web UIs and web-based panels
+- Implemented UI based on UI/UX designs following standards
+- Collaborated continuously with the backend team to integrate and implement APIs
+- Improved performance, load speed, and user experience (performance optimization)
+- Debugged and analyzed issues
+- Wrote clean, modular, well-documented code following standards
+---
+ 
 ## 🎯 Featured Projects
-
-### 🏆 [ByteChallenge](https://github.com/aliabbasiudev/byte-challenge)
-A platform for solving coding challenges with AI-powered code review.
-- **Features:** Code editor integration, AI feedback system, real-time progress tracking, difficulty filtering
-- **Tech Stack:** Next.js 16, TypeScript, Tailwind CSS, Monaco Editor, Gemini API
+ 
+### 🏆 [ByteChallenge](https://github.com/aliabbasiudev/ByteChallenge)
+A JavaScript/TypeScript practice platform with 40 challenges, a code editor, and AI-powered code review.
+- **Features:** Code editor integration, AI feedback (Gemini), auth via Clerk
+- **Tech Stack:** Next.js (App Router), TypeScript, Clerk, Gemini AI, Monaco Editor, Zustand, Tailwind CSS, shadcn/ui
+- Built with a Server/Client Components split to reduce JS shipped to the browser
 - **Live Demo:** [byte-challenge.vercel.app](https://byte-challenge.vercel.app)
 
-### 💻 [Interactive Components](https://github.com/aliabbasiudev)
-Collection of modern, reusable React components with smooth animations.
-- Card hover effects, dark mode toggle, parallax scrolling
-- **Tech Stack:** React, CSS3, JavaScript
-
-### 🎨 [UI Effects Library](https://github.com/aliabbasiudev)
-Showcase of CSS animations and interactive effects for modern web design.
-
----
-
+ 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasiudev&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasiudev&layout=compact&theme=dark)
-
+ 
 ---
-
-## 🛠️ Tech Stack
-
-```
-Frontend: React • Next.js • TypeScript • JavaScript (ES6+)
-Styling: Tailwind CSS • CSS3 • SCSS • Sass • Bootstrap
-Tools: Git • GitHub • VS Code • Figma
-APIs: REST • Gemini API • GraphQL (learning)
-```
-
----
-
+ 
 ## 📌 What's Next?
-
-- 🔍 Looking for Frontend Developer opportunities in Iranian tech companies
+- 🔍 Looking for Frontend Developer opportunities at Iranian tech companies
 - 🎯 Contributing to open-source projects
-- 📖 Building more full-stack projects
-- 🚀 Mastering Next.js and web performance optimization
-
+- 🚀 Deepening Next.js and web performance skills
 ---
-
+ 
 ## 🤝 Let's Connect
-
-Feel free to reach out if you want to collaborate, discuss web development, or just say hi!
-
 - 📧 **Email:** aliabbasi.udev@gmail.com
 - 💼 **LinkedIn:** [Ali Abbasi](https://www.linkedin.com/in/ali-abbasi-b64686242)
 - 🐙 **GitHub:** [@aliabbasiudev](https://github.com/aliabbasiudev)
-
----
-
-*Last updated: 2026 • Always learning and growing* 🌱
